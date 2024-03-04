@@ -1,0 +1,31 @@
+Maybe to be done items
+
+ALL AIRPORTS
+    - add altitude and speed restrictions to sids and stars
+    - add apron outlines
+    - add approaches
+    - update stands to PIER instead of TAXI_CENTER
+    - check VFR routes
+    - add all smaller airports
+
+LRBS
+    - round off some turns on sids/stars
+
+LRAR
+    - realign whole airport
+    - fix Arad TMA subsectors
+
+LROP
+    - add military apron and taxiways
+    
+LRCB
+    - do a sketch of the aerodrome
+
+LRPW
+    - add new tadxiway
+
+LROD
+    - add vfr points
+
+LRBS
+    - add vfr points
