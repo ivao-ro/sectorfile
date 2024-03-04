@@ -1,0 +1,2 @@
+//LRSM - taxiway name (A)
+A;LRSM;N047.42.20.894;E022.53.05.841;
