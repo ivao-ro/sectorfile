@@ -1,5 +1,3 @@
-Maybe to be done items
-
 ALL AIRPORTS
     - add altitude and speed restrictions to sids and stars
     - add apron outlines
