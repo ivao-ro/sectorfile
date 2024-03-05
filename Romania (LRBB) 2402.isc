@@ -12,8 +12,8 @@
 //This sector file is brought to you by the staff of the Romanian division. 
 //We would like to thank the following members for their efforts: 
 //Lucian Cristea, Marvin Rochow, Andrei Bubeneck, Robertino Mihai and Nicolae Podaru.
-//07 DEC 2021
-//AIRAC 2112
+//05 MAR 2024
+//AIRAC 2402
 
 [INFO]
 N045.46.20.027
@@ -106,6 +106,7 @@ F;CTZ\lrsv.ctz
 F;CTZ\lrtc.ctz
 F;CTZ\lrtm.ctz
 F;CTZ\lrtr.ctz
+F;CTZ\lrbv.ctz
 
 
 [GEO]
@@ -174,6 +175,7 @@ F;GEO\lrtc.geo
 F;GEO\lrtm.geo
 F;GEO\lrtr.geo
 F;GEO\lrtz.geo
+F;GEO\lrbv.geo
 
 
 [AIRPORT]
@@ -279,6 +281,7 @@ F;POLYGON_DYNAMIC\lrsv.tfl
 F;POLYGON_DYNAMIC\lrtc.tfl
 F;POLYGON_DYNAMIC\lrtm.tfl
 F;POLYGON_DYNAMIC\lrtr.tfl
+F;POLYGON_DYNAMIC\lrbv.tfl
 
 //lakes
 //F;POLYGON_STATIC\lrbb_lakes.fcl
@@ -309,6 +312,7 @@ F;POLYGON_STATIC\lrtc.fcl
 F;POLYGON_STATIC\lrtm.fcl
 F;POLYGON_STATIC\lrtr.fcl
 F;POLYGON_STATIC\lrtz.fcl
+F;POLYGON_STATIC\lrbv.fcl
 
 //active areas
 F;POLYGON_STATIC\active_areas.fcl
